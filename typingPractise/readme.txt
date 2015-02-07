@@ -1,0 +1,1 @@
+A list of files containing random generated characters can be used to be imported into klaravo for typing practise.

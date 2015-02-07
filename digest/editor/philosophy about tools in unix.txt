@@ -1,0 +1,23 @@
+There is a philosophy about tools in unix.
+
+Code on remote server? Openssh, to go there, or SSHFS/NFS to bring it to me.
+
+Need to edit some subset of a directory's files? ls |grep *.py
+
+Need to be N places at once? screen/tmux
+
+Looking for something? ctags
+
+How about quickly change local context? ^Z -> fg
+
+Of course you'll need something to deliver these commands: zsh/bash/ksh
+
+Since everything is a file, and text is the lingua franca of unix,
+
+You'll need something to deal with that. Small, fast and focused.
+
+Vim.
+
+Certainly Emacs is more extensible than Vim. But, when you use Vim, your IDE is unix.
+
+Emacs is certainly a great little IDE, but it's a bit small and restrictive for me.

@@ -1,0 +1,16 @@
+1. WinSplit
+2. Sizer: http://www.brianapps.net/sizer/
+
+Best Windows Manager, Free
+
+
+
+When in MS windows (at work) I use winsplit to survive, but that is an insult compared to:
+
+1.- awesome window manager
+2.- wmii
+3.- xmonad
+
+*nix users are years ahead. When so many people rant about how crappy windows is, they usually are thinking about things like this. In MS windows you get one windows manager. Everywhere else, you get freedom of choice. If you need a window manager to, um, *manage* your windows instead of throwing them at you for you to decide what to do every single time, then try to look outside of that hole.
+
+Helping apps to manage windows? what?

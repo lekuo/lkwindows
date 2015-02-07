@@ -1,0 +1,156 @@
+Navigation
+Current Page
+Editing
+Search
+Windows & Tabs
+History
+Bookmarks
+Tools
+Miscellaneous
+Media shortcuts (Ogg and WebM Videos Only)
+
+Navigation
+	Back 			Alt + ¡û
+					Backspace
+	Forward 		Alt + ¡ú
+					Shift + Backspace
+	Home 			Alt + Home
+	Open File 		Ctrl + O
+	Reload 			F5
+	Ctrl + R
+	Reload (override cache) 	Ctrl + F5 
+								Ctrl + Shift + R
+	Stop 			Esc
+
+
+Current Page
+	Go to Bottom of Page 	End
+	Go to Top of Page 		Home
+	Move to Next Frame 		F6
+	Move to Previous Frame 	Shift + F6
+	Print 					Ctrl + P
+	Save Page As 			Ctrl + S
+	Zoom In 				Ctrl + +
+	Zoom Out 				Ctrl + -
+	Zoom Reset 				Ctrl + 0
+
+
+
+Editing
+	Copy 					Ctrl + C
+	Cut 					Ctrl + X
+	Delete 					Del
+	Paste 					Ctrl + V
+	Paste (as plain text) 	Ctrl + Shift + V
+	Redo 					Ctrl + Y
+	Select All 				Ctrl + A
+	Undo 					Ctrl + Z
+
+
+
+Search
+	Find 					Ctrl + F
+	Find Again 				F3 		Ctrl + G
+	Find Previous 			Shift + F3
+							Ctrl + Shift + G
+	Quick Find within link-text only 	'
+	Quick Find 				/
+	Close the Find or Quick Find bar 	Esc 	- when the Find or Quick Find bar is focused
+	Search bar 				Ctrl + K
+							Ctrl + E
+	Select or Manage Search Engines 
+							Alt + ¡ü
+							Alt + ¡ý 
+							F4 	- when Search Bar is focused
+
+
+Windows & Tabs
+	Some of these shortcuts require the currently selected tab to be "in focus." Currently, the only way to do this is to select an adjacent object and "tab into" the current tab, for instance, by hitting Alt + D to select the address bar, and then Shift + Tab twice.
+
+	Close Tab 					Ctrl + W
+								Ctrl + F4	- except for App Tabs
+	Close Window 				Ctrl + Shift + W
+								Alt + F4
+	Move Tab in focus Left 		Ctrl + ¡û
+								Ctrl + ¡ü
+	Move Tab in focus Right 	Ctrl + ¡ú
+								Ctrl + ¡ý
+	Move Tab in focus to start 	Ctrl + Home
+	Move Tab in focus to end 	Ctrl + End
+	New Tab 					Ctrl + T
+	New Window 					Ctrl + N
+	Next Tab 					Ctrl + Tab
+								Ctrl + Page Down
+	Open Address in New Tab 	Alt + Enter 	- from Location Bar or Search Bar
+	Previous Tab 				Ctrl + Shift + Tab
+								Ctrl + Page Up
+	Undo Close Tab 				Ctrl + Shift + T
+	Undo Close Window 			Ctrl + Shift + N
+	Select Tab 1 to 8 			Ctrl + 1to8
+	Select Last Tab 			Ctrl + 9
+	Tab Groups View 			Ctrl + Shift + E
+	Close Tab Groups View 		Esc
+	Next Tab Group 				Ctrl + ` 	- only for some keyboard layouts
+	Previous Tab Group 			Ctrl + Shift + ` 	- only for some keyboard layouts
+
+
+
+History
+	History sidebar 			Ctrl + H
+	Library window (History) 	Ctrl + Shift + H
+
+
+
+Bookmarks
+	Bookmark All Tabs 			Ctrl + Shift + D
+	Bookmark This Page 			Ctrl + D
+	Bookmarks sidebar 			Ctrl + B
+								Ctrl + I
+	Library window (Bookmarks) 	Ctrl + Shift + B
+
+
+
+Tools
+	Downloads 					Ctrl + J
+	Add-ons 					Ctrl + Shift + A
+	Web Console 				Ctrl + Shift + K
+	Scratchpad 					Shift + F4
+	Page Source 				Ctrl + U
+	Error Console 				Ctrl + Shift + J
+	Toggle Private Browsing 	Ctrl + Shift + P
+	Clear Recent History 		Ctrl + Shift + Del
+
+
+
+Miscellaneous
+	Complete .com Address 		Ctrl + Enter
+	Complete .net Address 		Shift + Enter
+	Complete .org Address 		Ctrl + Shift + Enter
+	Delete Selected Autocomplete Entry 	Del
+	Toggle Full Screen 					F11
+	Toggle Menu Bar (when hidden) 		Alt
+										F10
+	Show/Hide Add-on Bar 		Ctrl + /
+	Caret Browsing 				F7
+	Select Location Bar		 	F6
+								Alt + D
+								Ctrl + L
+	Stop GIF Animation 			Esc 	- after the page has been completely loaded
+
+
+
+
+Media shortcuts (Ogg and WebM Videos Only)
+
+	Toggle Play / Pause 		Space bar
+	Decrease volume 			¡ý
+	Increase volume 			¡ü
+	Mute audio 					Ctrl + ¡ý
+	Unmute audio 				Ctrl + ¡ü
+	Seek back 15 seconds 		¡û
+	Seek back 10 % 				Ctrl + ¡û
+	Seek forward 15 seconds 	¡ú
+	Seek forward 10 % 			Ctrl + ¡ú
+	Seek to the beginning 		Home
+	Seek to the end 			End
+
